@@ -20,6 +20,9 @@ HTML5 – Website structure
 CSS3 – Styling and responsive design
 JavaScript (ES6) – Interactivity and dynamic behavior
 
+## Deployment platform
+  Vercel
+
 
 ## 📱 Responsive Improvements
 
