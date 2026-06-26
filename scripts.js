@@ -1,15 +1,5 @@
 
-// window.addEventListener('load',() => {
-//     let userAnswer = prompt("solve this : 2 + 5 = ?");
-
-//     if (userAnswer == "7"){
-//         alert("congratulation!," + "you can visit it ");
-//     }else{
-//         alert(" Worng answer! Try again");
-//     }
-// });
-        
-
+    
 function onClickMenu(){
     document.getElementById("menu").classList.toggle("icon")
      document.getElementById("nav").classList.toggle("change")
@@ -45,12 +35,3 @@ rightArrow.addEventListener('click', () => {
 });
 
 showSlide(0);
-
-// const reviewlink = document.getElementById('review-link');
-// const cardSection = document.getElementById('.view-card');
-// reviewlink.addEventListener('click', () =>{
-//     cardSection.scrollIntoView({
-//         behavior: "smooth",
-//         block: 'start'
-//     });
-// });

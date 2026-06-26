@@ -37,7 +37,6 @@ nav1{
 #menu{
     width: 35px;
     height: 30px;
-    /* margin: 30px 0 20px 20px; */
     cursor: pointer;
     z-index: 9999;
     margin-right: 2rem;
@@ -136,82 +135,6 @@ opacity: 0;
     
 
 }
-
- /* @media only screen and (max-width:1200px){
-    .change{
-        width: 40%;
-    }
-    #navlogo{
-        width: 50%;
-        height: 50%;
-    }
-    #midlogo{
-         width: 40%;
-        height: 20%;
-        display: block; 
-    } 
-    nav1{
-        display: flex;
-        width: 100%;
-    }
-  
-}
-@media  (max-width:500px){
-     .change{
-width: 90%;
-    }
-    #navlogo{
-        width: 50%;
-        height: 80%;
-    }
-    #midlogo{
-        display: none;
-    } 
-     nav1{
-        height: 100px;
-    }
-    .herosection{
-
-        width: 100%;
-        height: 1000px;
-        flex-direction: column;
-        background-color: #092635;
-    }
-    
-     p {
-         width: 70%; 
-         height: 50px;
-        font-size: 10px;
-        padding: 0%; 
-    }
-
-    .img1{
-
-       width: 100%;
-       display: flex;  
-    } 
-    h1{
-         margin:0%;
-
-    }
-    .banner-container{
-        margin-top: 700px;
-        height: 200px;
-        width: 100px;
-    }
-    .tar1{
-        margin: 0;
-    }
-    .feature-container{
-
-        flex-direction: column;
-        width: 100%;
-    }
-    .feature-card{
-        flex-direction: column;
-    }
-        
-    } */
 
 
 /* section2 */
@@ -381,13 +304,6 @@ span{
     
 }
 
-/* section 5 */
- /* .feature-card{
-    display: flex;
-    align-items: flex-end;
-     margin-top: 10px; 
-} */
-
 
 .boxspe{
     height: 40px;
@@ -407,7 +323,7 @@ span{
     align-items: center;
     display: flex;
     background-color: #051923;
-    /* margin-left: 113px; */
+    
 }  
 .boxmock{
     height: 40px;
@@ -417,7 +333,7 @@ span{
     align-items: center;
     display: flex;
     background-color: #fcbe49;
-    /* margin-left: 133px; */
+    
 }  
 .boxai{
     height: 40px;
@@ -427,7 +343,7 @@ span{
     align-items: center;
     display: flex;
     background-color: #2a9d8f;
-    /* margin-left: 112px; */
+    
     
 }  
 
@@ -521,12 +437,10 @@ span{
     height: 40px;
     width: 300px;
     background-color: #8a68da;
-    /* margin-left: 20px; */
     border-radius: 5px;
      justify-content: center;
     align-items: center; 
     display: flex;
-    /* margin-bottom: 10px;  */
     cursor: pointer;
     border: transparent;  
 }
@@ -818,7 +732,6 @@ span{
     height: 600px;
     width: 100%;
     margin-top: 10px;
-    /* background-color: #f3f3f4; */
     background-color: #036176;
 }
 
@@ -1063,18 +976,7 @@ html{
 
 
 
-
-
-
-
-
-/* =========================
-FINAL RESPONSIVE FIX
-========================= */
-
-
-
-/* tablet */
+/* FINAL RESPONSIVE FIX */
 
 @media (max-width:992px){
 
@@ -1337,19 +1239,12 @@ word-break:break-word;
 }
 
 .boottomlabel{
-
 margin:30px auto;
-
 width:100%;
-
 display:flex;
-
 justify-content:center;
-
 align-items:center;
-
 flex-wrap:wrap;
-
 overflow:hidden;
 }
 
